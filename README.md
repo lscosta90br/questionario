@@ -1,6 +1,6 @@
 # Projeto
 
-Descrição do projeto
+Cria um Enquete ou Prova.
 
 ## Como rodar o projeto ?
 
